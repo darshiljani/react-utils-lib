@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode"
+        // Uncomment if debugger does not work
+        // "ms-vscode.js-debug-nightly"]
+    ]
+    // Uncomment if debugger does not work
+    // "unwantedRecommendations": ["ms-vscode.js-debug"]
+}
